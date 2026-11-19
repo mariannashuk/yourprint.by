@@ -1,0 +1,5 @@
+<div class="flex flex_jc_center" style="position:relative;overflow:hidden;height:100%">
+        <a href="https://yandex.by/maps/157/minsk/?utm_medium=mapframe&utm_source=maps" style="color:#eee;font-size:12px;position:absolute;top:0px;">Минск</a>
+        <a href="https://yandex.by/maps/157/minsk/house/Zk4YcgBmTUUGQFtpfXRydnVjZQ==/?ll=27.476401%2C53.837901&utm_medium=mapframe&utm_source=maps&z=16.7" style="color:#eee;font-size:12px;position:absolute;top:14px;">Улица Академика Курчатова, 5 — Яндекс Карты</a>
+        <iframe style="filter: saturate(0.3);" src="https://yandex.by/map-widget/v1/?ll=27.476401%2C53.837901&mode=search&ol=geo&ouri=ymapsbm1%3A%2F%2Fgeo%3Fdata%3DCgg2NjY4MjE1NBJT0JHQtdC70LDRgNGD0YHRjCwg0JzRltC90YHQuiwg0LLRg9C70ZbRhtCwINCQ0LrQsNC00Y3QvNGW0LrQsCDQmtGD0YDRh9Cw0YLQsNCy0LAsIDUiCg2rz9tBFQNaV0I%2C&z=16.7" width="95%" height="100%" frameborder="1" allowfullscreen="true" style="position:relative;"></iframe>
+    </div>

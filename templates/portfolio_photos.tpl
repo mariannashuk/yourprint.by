@@ -1,0 +1,1 @@
+<div style="background-image: url('{SITE}/images/{PHOTO_LINK}');" class="portfolio_background_img"></div>

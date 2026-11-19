@@ -1,0 +1,1 @@
+<a class="p color_beige" href="{SITE}{LINK}">{NAME}</a>
