@@ -1,10 +1,11 @@
 "ТвойПринт" - учебный веб-сайт вымышленной типографии «ТвойПринт», реализованный на PHP и MySQL с шаблонизатором на основе меток, динамической маршрутизацией по страницам и обработчиком заявок на обратный звонок.
 ## Основные страницы сайта:
-<br><img width="360" height="202" alt="ГЛАВНАЯ" src="https://github.com/user-attachments/assets/d475305a-f00c-4682-9cb2-b297612a45fe" />
-<br><img height="392" alt="УСЛУГИ" src="https://github.com/user-attachments/assets/cbe5d948-a0f3-403d-a1f5-1db0deead36f" />
-<img width="360" height="392" alt="УСЛУГИ_2" src="https://github.com/user-attachments/assets/f9f7712d-d390-4109-b0ed-77ef7de0babe" />
-<br><img height="392" alt="ПОРТФОЛИО" src="https://github.com/user-attachments/assets/0bc21850-3cac-408a-801a-9a991a8b790a" />
-<img height="392" alt="КОНТАКТЫ" src="https://github.com/user-attachments/assets/a453bfdb-f816-42ec-acc6-31b4e459a5a7" />
+<br><img height="392" alt="ГЛАВНАЯ" src="https://github.com/user-attachments/assets/50e0cd9c-8f33-4652-9d88-367bf62ecf8c" />
+<br><img height="392" alt="УСЛУГИ" src="https://github.com/user-attachments/assets/15bd01d3-f5df-42aa-86de-fdf45ab87d99" />
+<img height="392" alt="УСЛУГИ_2" src="https://github.com/user-attachments/assets/0afedc94-8f28-4555-9725-f2415806514c" />
+<br><img height="392" alt="ПОРТФОЛИО" src="https://github.com/user-attachments/assets/b9cbf487-ff8b-49d2-b846-9370f146f3a3" />
+<img height="392" alt="КОНТАКТЫ" src="https://github.com/user-attachments/assets/b4193ae8-39bd-416b-9d43-d880d74f5cb9" />
+
 
 ## Ключевой функционал и архитектура
 
