@@ -1,12 +1,12 @@
 "ТвойПринт" - учебный веб-сайт вымышленной типографии «ТвойПринт», реализованный на PHP и MySQL с шаблонизатором на основе меток, динамической маршрутизацией по страницам и обработчиком заявок на обратный звонок.
-Основные страницы сайта:
-<img width="360" height="202" alt="ГЛАВНАЯ" src="https://github.com/user-attachments/assets/d475305a-f00c-4682-9cb2-b297612a45fe" />
-<img width="360" height="498" alt="УСЛУГИ" src="https://github.com/user-attachments/assets/cbe5d948-a0f3-403d-a1f5-1db0deead36f" />
+## Основные страницы сайта:
+<br><img width="360" height="202" alt="ГЛАВНАЯ" src="https://github.com/user-attachments/assets/d475305a-f00c-4682-9cb2-b297612a45fe" />
+<br><img width="360" height="498" alt="УСЛУГИ" src="https://github.com/user-attachments/assets/cbe5d948-a0f3-403d-a1f5-1db0deead36f" />
 <img width="360" height="392" alt="УСЛУГИ_2" src="https://github.com/user-attachments/assets/f9f7712d-d390-4109-b0ed-77ef7de0babe" />
-<img width="360" height="333" alt="ПОРТФОЛИО" src="https://github.com/user-attachments/assets/0bc21850-3cac-408a-801a-9a991a8b790a" />
+<br><img width="360" height="333" alt="ПОРТФОЛИО" src="https://github.com/user-attachments/assets/0bc21850-3cac-408a-801a-9a991a8b790a" />
 <img width="360" height="488" alt="КОНТАКТЫ" src="https://github.com/user-attachments/assets/a453bfdb-f816-42ec-acc6-31b4e459a5a7" />
 
-## ⚙️ Ключевой функционал и архитектура
+## Ключевой функционал и архитектура
 
 * **Единая точка входа и ЧПУ-маршрутизация:** Входящие запросы на несуществующие файлы и директории перенаправляются через `.htaccess` (`mod_rewrite`) на `index.php` с сохранением query-параметров (`[L,QSA]`) и кодировкой `UTF-8`.
 * **Конфигурация путей и окружения:** Задаются константы путей к шаблонам и подключаемым модулям (`PATH_TEMPLATE`, `PATH_INCLUDE`), а также базовый адрес сайта (`SITE`).
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Стек технологий
+## Стек технологий
 
 | Компонент | Технологии |
 | :--- | :--- |
@@ -28,7 +28,7 @@
 
 ---
 
-## 📂 Структура проекта
+## Структура проекта
 
 ```text
 yourprint.by/
