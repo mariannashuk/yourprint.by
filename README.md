@@ -5,4 +5,8 @@
 <img width="360" height="392" alt="УСЛУГИ_2" src="https://github.com/user-attachments/assets/f9f7712d-d390-4109-b0ed-77ef7de0babe" />
 <img width="360" height="333" alt="ПОРТФОЛИО" src="https://github.com/user-attachments/assets/0bc21850-3cac-408a-801a-9a991a8b790a" />
 <img width="360" height="488" alt="КОНТАКТЫ" src="https://github.com/user-attachments/assets/a453bfdb-f816-42ec-acc6-31b4e459a5a7" />
-
+Стек технологий:
+**Backend** | PHP, MySQL |
+**Frontend** | HTML5, CSS3, JavaScript |
+**Веб-сервер** | Apache |
+**Среда разработки** | Open Server Panel (OSPanel), PhpStorm |
